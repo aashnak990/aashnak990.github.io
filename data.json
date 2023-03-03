@@ -18,8 +18,7 @@
 	"skillsList":[{"id":"1","skillName":"Communication"},{"id":"2","skillName":"Technology"}],
 	"activitiesList":[{"id":"1","activityName":"Coloring"},{"id":"2","activityName":"Web Development"}],
 	"modesList":[{"id":"1","modeName":"Online"},{"id":"2","modeName":"Offline"}],
-	"todaysCompetitions": [
-    {
+	"todaysCompetitions": [{
       "title": "Cooking Without Fire",
       "image": "https://www.sitters.co.uk/media/1157229/15-fun-cooking-activities-main.png",
       "date": "22nd Feb, 2022",
@@ -148,6 +147,6 @@
 	  {
 	  "userImage":"https://cdn-icons-png.flaticon.com/512/168/168724.png"
 	  }]
-    },
+    }
   ]
 }]
