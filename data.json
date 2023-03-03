@@ -128,7 +128,7 @@
       "date": "22nd Feb, 2022",
       "mode":"ONLINE",
       "time": "6:00 PM - 9:00 PM",
-      "id": "3",
+      "id": "5",
 	  "enrolledFlag":"N",
 	  "enrolledCount":"200+"
 	  "location":"null",
@@ -148,5 +148,4 @@
 	  "userImage":"https://cdn-icons-png.flaticon.com/512/168/168724.png"
 	  }]
     }
-  ]
 }]
