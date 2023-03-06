@@ -171,5 +171,38 @@
 				}
 			]
 		}
-	]
+	],
+	"todaysClasses":[{
+		"title": "Master Illustration: Sketching, Inking & Color Essentials",
+		"image":"https://149881614.v2.pressablecdn.com/wp-content/uploads/2018/03/careers-student-teacher.jpg",
+		"date": "20th Dec, 2023",
+		"time": "10 AM - 11 AM",
+		"amount": "4500",
+		"isEnrolled": "N"
+	},
+			 {"title": "Guitar lessons to create your own tune",
+		"image":"https://149881614.v2.pressablecdn.com/wp-content/uploads/2018/03/careers-student-teacher.jpg",
+		"date":"20th Dec, 2023",
+		"time":"10 AM - 11 AM",
+		"amount":"4500",
+		"isEnrolled": "N"},
+			 {
+			 "title": "Video editing  with adobe premiere pro",
+		"image":"https://149881614.v2.pressablecdn.com/wp-content/uploads/2018/03/careers-student-teacher.jpg",
+		"date":"20th Dec, 2023",
+		"time":"10 AM - 11 AM",
+		"amount":"4500",
+		"isEnrolled": "N"},
+			 {"title": "Creative writing bootcamp",
+		"image":"https://149881614.v2.pressablecdn.com/wp-content/uploads/2018/03/careers-student-teacher.jpg",
+		"date":"20th Dec, 2023",
+		"time":"10 AM - 11 AM",
+		"amount":"4500",
+		"isEnrolled": "N"},
+			 {"title": "Learn how to expand your brand name",
+		"image":"https://149881614.v2.pressablecdn.com/wp-content/uploads/2018/03/careers-student-teacher.jpg",
+		"date":"20th Dec, 2023",
+		"time":"10 AM - 11 AM",
+		"amount":"4500",
+		"isEnrolled": "N"}]
 }]
