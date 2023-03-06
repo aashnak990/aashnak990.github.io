@@ -204,5 +204,45 @@
 		"date":"20th Dec, 2023",
 		"time":"10:00 AM - 11:00 AM",
 		"amount": "3,499",
-		"isEnrolled": "N"}]
+		"isEnrolled": "N"}],
+	"desktopSliderDetails":[
+		{
+		"id":"1",
+		"image":"https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/4829F932-9DA3-4A02-A513-9DC1E51CC64B.png",
+		"heading":"Develop Extra-curricular Skills through Skill Competition",
+		"subHeading":"Get regular opportunities to showcase talent at comfort of your home and out of doors"
+		},
+		{
+		"id":"2",
+		"image":"https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/4829F932-9DA3-4A02-A513-9DC1E51CC64B.png",
+		"heading":"Find Classes offered by top Experts as per your needs & schedule",
+		"subHeading":"Learn the skills you need to live your dreams in hobby, career and life."
+		},
+		{
+		"id":"3",
+		"image":"https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/4829F932-9DA3-4A02-A513-9DC1E51CC64B.png",
+		"heading":"Obtain instant nudge from global community of skill experts",
+		"subHeading":"Connect with passionate experts looking to spotlight the highs and lows in your work and help you improve."
+		}
+	],
+	"mobileSliderDetails":[
+	{
+		"id":"1",
+		"image":"http://www.qrencia.com/wp-content/uploads/2023/02/skill-competitions-on-qrencia-1.png",
+		"heading":"Develop Extra-curricular Skills through Skill Competition",
+		"subHeading":"Get regular opportunities to showcase talent at comfort of your home and out of doors"
+		},
+		{
+		"id":"2",
+		"image":"http://www.qrencia.com/wp-content/uploads/2023/02/skill-competitions-on-qrencia-1.png",
+		"heading":"Find Classes offered by top Experts as per your needs & schedule",
+		"subHeading":"Learn the skills you need to live your dreams in hobby, career and life."
+		},
+		{
+		"id":"3",
+		"image":"http://www.qrencia.com/wp-content/uploads/2023/02/skill-competitions-on-qrencia-1.png",
+		"heading":"Obtain instant nudge from global community of skill experts",
+		"subHeading":"Connect with passionate experts looking to spotlight the highs and lows in your work and help you improve."
+		}
+	]
 }]
