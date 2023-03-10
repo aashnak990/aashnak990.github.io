@@ -58,7 +58,7 @@
             "enrolledFlag":"N",
             "enrolledCount":"200+",
             "location":"null",
-            "skillCategoryId":1,
+            "skillCategoryId":"1",
             "enrolledCandidates":[
                {
                   "userImage":"https://cdn-icons-png.flaticon.com/512/168/168724.png"
@@ -88,7 +88,7 @@
             "enrolledFlag":"N",
             "enrolledCount":"400+",
             "location":"Kavi Nagar Ghaziabad",
-            "skillCategoryId":1,
+            "skillCategoryId":"1",
             "enrolledCandidates":[
                {
                   "userImage":"https://cdn-icons-png.flaticon.com/512/168/168724.png"
@@ -118,7 +118,7 @@
             "enrolledFlag":"N",
             "enrolledCount":"200+",
             "location":"null",
-            "skillCategoryId":1,
+            "skillCategoryId":"1",
             "enrolledCandidates":[
                {
                   "userImage":"https://cdn-icons-png.flaticon.com/512/168/168724.png"
@@ -148,7 +148,7 @@
             "enrolledFlag":"N",
             "enrolledCount":"400+",
             "location":"Kavi Nagar Ghaziabad",
-            "skillCategoryId":1,
+            "skillCategoryId":"1",
             "enrolledCandidates":[
                {
                   "userImage":"https://cdn-icons-png.flaticon.com/512/168/168724.png"
@@ -178,7 +178,7 @@
             "enrolledFlag":"N",
             "enrolledCount":"200+",
             "location":"null",
-            "skillCategoryId":1,
+            "skillCategoryId":"1",
             "enrolledCandidates":[
                {
                   "userImage":"https://cdn-icons-png.flaticon.com/512/168/168724.png"
@@ -208,7 +208,7 @@
             "enrolledFlag":"N",
             "enrolledCount":"200+",
             "location":"null",
-            "skillCategoryId":1,
+            "skillCategoryId":"1",
             "enrolledCandidates":[
                {
                   "userImage":"https://cdn-icons-png.flaticon.com/512/168/168724.png"
@@ -238,7 +238,7 @@
             "enrolledFlag":"N",
             "enrolledCount":"200+",
             "location":"null",
-            "skillCategoryId":1,
+            "skillCategoryId":"1",
             "enrolledCandidates":[
                {
                   "userImage":"https://cdn-icons-png.flaticon.com/512/168/168724.png"
@@ -268,7 +268,7 @@
             "enrolledFlag":"N",
             "enrolledCount":"200+",
             "location":"null",
-            "skillCategoryId":2,
+            "skillCategoryId":"2",
             "enrolledCandidates":[
                {
                   "userImage":"https://cdn-icons-png.flaticon.com/512/168/168724.png"
@@ -298,7 +298,7 @@
             "enrolledFlag":"N",
             "enrolledCount":"200+",
             "location":"null",
-            "skillCategoryId":2,
+            "skillCategoryId":"2",
             "enrolledCandidates":[
                {
                   "userImage":"https://cdn-icons-png.flaticon.com/512/168/168724.png"
@@ -328,7 +328,7 @@
             "enrolledFlag":"N",
             "enrolledCount":"200+",
             "location":"null",
-            "skillCategoryId":2,
+            "skillCategoryId":"2",
             "enrolledCandidates":[
                {
                   "userImage":"https://cdn-icons-png.flaticon.com/512/168/168724.png"
@@ -358,7 +358,7 @@
             "enrolledFlag":"N",
             "enrolledCount":"200+",
             "location":"null",
-            "skillCategoryId":2,
+            "skillCategoryId":"2",
             "enrolledCandidates":[
                {
                   "userImage":"https://cdn-icons-png.flaticon.com/512/168/168724.png"
@@ -388,7 +388,7 @@
             "enrolledFlag":"N",
             "enrolledCount":"400+",
             "location":"Kavi Nagar Ghaziabad",
-            "skillCategoryId":3,
+            "skillCategoryId":"3",
             "enrolledCandidates":[
                {
                   "userImage":"https://cdn-icons-png.flaticon.com/512/168/168724.png"
@@ -418,7 +418,7 @@
             "enrolledFlag":"N",
             "enrolledCount":"400+",
             "location":"Kavi Nagar Ghaziabad",
-            "skillCategoryId":4,
+            "skillCategoryId":"4",
             "enrolledCandidates":[
                {
                   "userImage":"https://cdn-icons-png.flaticon.com/512/168/168724.png"
@@ -448,7 +448,7 @@
             "enrolledFlag":"N",
             "enrolledCount":"400+",
             "location":"Kavi Nagar Ghaziabad",
-            "skillCategoryId":5,
+            "skillCategoryId":"5",
             "enrolledCandidates":[
                {
                   "userImage":"https://cdn-icons-png.flaticon.com/512/168/168724.png"
@@ -478,7 +478,7 @@
             "enrolledFlag":"N",
             "enrolledCount":"400+",
             "location":"Kavi Nagar Ghaziabad",
-            "skillCategoryId":6,
+            "skillCategoryId":"6",
             "enrolledCandidates":[
                {
                   "userImage":"https://cdn-icons-png.flaticon.com/512/168/168724.png"
@@ -583,26 +583,32 @@
       "skillCategories":[
          {
             "id":1,
+            "skillId":"1",
             "skillName":"Fine Arts"
          },
          {
             "id":2,
+            "skillId":"2",
             "skillName":"Communication"
          },
          {
             "id":3,
+            "skillId":"3",
             "skillName":"Sports & Cultural"
          },
          {
             "id":4,
+            "skillId":"4",
             "skillName":"Vocational"
          },
          {
             "id":5,
+            "skillId":"5",
             "skillName":"Technology"
          },
          {
             "id":6,
+            "skillId":"6",
             "skillName":"Life Skills"
          }
       ]
