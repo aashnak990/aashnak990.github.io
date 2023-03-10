@@ -597,6 +597,11 @@
             "skillName":"Sports & Cultural"
          },
          {
+            "id":2,
+            "skillId":"2",
+            "skillName":"Communication"
+         },
+         {
             "id":4,
             "skillId":"4",
             "skillName":"Vocational"
