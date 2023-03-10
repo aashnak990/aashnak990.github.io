@@ -47,6 +47,7 @@
 			"enrolledFlag": "N",
 			"enrolledCount": "200+",
 			"location": "null",
+		"skillCategoryId":1,
 			"enrolledCandidates": [{
 					"userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
 				},
@@ -75,6 +76,7 @@
 			"enrolledFlag": "N",
 			"enrolledCount": "400+",
 			"location": "Kavi Nagar Ghaziabad",
+			"skillCategoryId":1,
 			"enrolledCandidates": [{
 					"userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
 				},
@@ -103,6 +105,7 @@
 			"enrolledFlag": "N",
 			"enrolledCount": "200+",
 			"location": "null",
+			"skillCategoryId":1,
 			"enrolledCandidates": [{
 					"userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
 				},
@@ -131,6 +134,7 @@
 			"enrolledFlag": "N",
 			"enrolledCount": "400+",
 			"location": "Kavi Nagar Ghaziabad",
+			"skillCategoryId":1,
 			"enrolledCandidates": [{
 					"userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
 				},
@@ -159,6 +163,7 @@
 			"enrolledFlag": "N",
 			"enrolledCount": "200+",
 			"location": "null",
+			"skillCategoryId":1,
 			"enrolledCandidates": [{
 					"userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
 				},
@@ -183,10 +188,11 @@
 			"mode": "Online",
 			"time": "6:00 PM - 9:00 PM",
 			"timeLeft":"16 hours",
-			"id": "5",
+			"id": "6",
 			"enrolledFlag": "N",
 			"enrolledCount": "200+",
 			"location": "null",
+				       "skillCategoryId":1,
 			"enrolledCandidates": [{
 					"userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
 				},
@@ -211,10 +217,11 @@
 			"mode": "Online",
 			"time": "6:00 PM - 9:00 PM",
 			"timeLeft":"16 hours",
-			"id": "5",
+			"id": "7",
 			"enrolledFlag": "N",
 			"enrolledCount": "200+",
 			"location": "null",
+				       "skillCategoryId":1,
 			"enrolledCandidates": [{
 					"userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
 				},
@@ -239,10 +246,11 @@
 			"mode": "Online",
 			"time": "6:00 PM - 9:00 PM",
 			"timeLeft":"16 hours",
-			"id": "5",
+			"id": "8",
 			"enrolledFlag": "N",
 			"enrolledCount": "200+",
 			"location": "null",
+				       "skillCategoryId":2,
 			"enrolledCandidates": [{
 					"userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
 				},
@@ -267,10 +275,11 @@
 			"mode": "Online",
 			"time": "6:00 PM - 9:00 PM",
 			"timeLeft":"16 hours",
-			"id": "5",
+			"id": "9",
 			"enrolledFlag": "N",
 			"enrolledCount": "200+",
 			"location": "null",
+				       "skillCategoryId":2,
 			"enrolledCandidates": [{
 					"userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
 				},
@@ -295,10 +304,11 @@
 			"mode": "Online",
 			"time": "6:00 PM - 9:00 PM",
 			"timeLeft":"16 hours",
-			"id": "5",
+			"id": "10",
 			"enrolledFlag": "N",
 			"enrolledCount": "200+",
 			"location": "null",
+				       "skillCategoryId":2,
 			"enrolledCandidates": [{
 					"userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
 				},
@@ -323,10 +333,127 @@
 			"mode": "Online",
 			"time": "6:00 PM - 9:00 PM",
 			"timeLeft":"16 hours",
-			"id": "5",
+			"id": "11",
 			"enrolledFlag": "N",
 			"enrolledCount": "200+",
 			"location": "null",
+				      "skillCategoryId":2,
+			"enrolledCandidates": [{
+					"userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+				},
+				{
+					"userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+				},
+				{
+					"userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+				},
+				{
+					"userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+				},
+				{
+					"userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+				}
+			]
+		},
+			       {
+			"title": "Puppet Modelling",
+			"image": "https://i.ytimg.com/vi/IVu6354FcM4/maxresdefault.jpg",
+			"date": "23rd Feb, 2022",
+			"mode": "Offline",
+			"time": "6:00 PM - 9:00 PM",
+			"timeLeft":"11 hours",
+			"id": "12",
+			"enrolledFlag": "N",
+			"enrolledCount": "400+",
+			"location": "Kavi Nagar Ghaziabad",
+			"skillCategoryId":3,
+			"enrolledCandidates": [{
+					"userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+				},
+				{
+					"userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+				},
+				{
+					"userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+				},
+				{
+					"userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+				},
+				{
+					"userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+				}
+			]
+		},
+			       {
+			"title": "Puppet Modelling",
+			"image": "https://i.ytimg.com/vi/IVu6354FcM4/maxresdefault.jpg",
+			"date": "23rd Feb, 2022",
+			"mode": "Offline",
+			"time": "6:00 PM - 9:00 PM",
+			"timeLeft":"11 hours",
+			"id": "13",
+			"enrolledFlag": "N",
+			"enrolledCount": "400+",
+			"location": "Kavi Nagar Ghaziabad",
+			"skillCategoryId":4,
+			"enrolledCandidates": [{
+					"userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+				},
+				{
+					"userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+				},
+				{
+					"userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+				},
+				{
+					"userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+				},
+				{
+					"userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+				}
+			]
+		},
+			       {
+			"title": "Puppet Modelling",
+			"image": "https://i.ytimg.com/vi/IVu6354FcM4/maxresdefault.jpg",
+			"date": "23rd Feb, 2022",
+			"mode": "Offline",
+			"time": "6:00 PM - 9:00 PM",
+			"timeLeft":"11 hours",
+			"id": "14",
+			"enrolledFlag": "N",
+			"enrolledCount": "400+",
+			"location": "Kavi Nagar Ghaziabad",
+			"skillCategoryId":5,
+			"enrolledCandidates": [{
+					"userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+				},
+				{
+					"userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+				},
+				{
+					"userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+				},
+				{
+					"userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+				},
+				{
+					"userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+				}
+			]
+		},
+			       {
+			"title": "Puppet Modelling",
+			"image": "https://i.ytimg.com/vi/IVu6354FcM4/maxresdefault.jpg",
+			"date": "23rd Feb, 2022",
+			"mode": "Offline",
+			"time": "6:00 PM - 9:00 PM",
+			"timeLeft":"11 hours",
+			"id": "15",
+			"enrolledFlag": "N",
+			"enrolledCount": "400+",
+			"location": "Kavi Nagar Ghaziabad",
+			"skillCategoryId":6,
 			"enrolledCandidates": [{
 					"userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
 				},
@@ -417,5 +544,28 @@
 		"heading":"Obtain instant nudge from global community of skill experts",
 		"subHeading":"Connect with passionate experts looking to spotlight the highs and lows in your work and help you improve."
 		}
-	]
+	],
+	"skillCategories": [{
+		"id": 1,
+		"skillName": "Fine Arts"
+	}, {
+		"id": 2,
+		"skillName": "Communication"
+	},
+			   {
+		"id": 3,
+		"skillName": "Sports & Cultural"
+	},
+			   {
+		"id": 4,
+		"skillName": "Vocational"
+	},
+			   {
+		"id": 5,
+		"skillName": "Technology"
+	},
+			   {
+		"id": 6,
+		"skillName": "Life Skills"
+	},]
 }]
