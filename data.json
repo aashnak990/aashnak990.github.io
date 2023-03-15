@@ -631,6 +631,38 @@
             "skillId":"6",
             "skillName":"Life Skills"
          }
+      ],
+      "todaysActivities":[
+         {
+         "id":1,
+            "image":"",
+            "title":"Competition",
+            "activityDescription":"Classical Solo Singing Competition",
+            "time":"12:00 PM"
+         },{
+          "id":2,
+            "image":"",
+            "title":"Skill Labs",
+            "activityDescription":"Groove With Bollywood Dance",
+            "time":"3:00 PM"},
+         {
+          "id":3,
+            "image":"",
+            "title":"Mentorship",
+            "activityDescription":"Emotional Intelligence at School",
+            "time":"5:00 PM"},
+         {
+          "id":4,
+            "image":"",
+            "title":"Workshops",
+            "activityDescription":"Digital Art for Beginners",
+            "time":"7:00 PM"},
+         {
+          "id":5,
+            "image":"",
+            "title":"Qtalks",
+            "activityDescription":"Importance of Yoga",
+            "time":"8:00 PM"},
       ]
    }
 ]
