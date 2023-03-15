@@ -635,31 +635,31 @@
       "todaysActivities":[
          {
          "id":1,
-            "image":"",
+            "image":"https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/F33F5C16-85EB-40A9-8F21-CA077F5BB5DE.svg",
             "title":"Competition",
             "activityDescription":"Classical Solo Singing Competition",
             "time":"12:00 PM"
          },{
           "id":2,
-            "image":"",
+            "image":"https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/9990D682-4B05-4E18-989A-385618DD6550.svg",
             "title":"Skill Labs",
             "activityDescription":"Groove With Bollywood Dance",
             "time":"3:00 PM"},
          {
           "id":3,
-            "image":"",
+            "image":"https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/5235D25C-4BA0-4A62-9235-1D0C3DFD5308.svg",
             "title":"Mentorship",
             "activityDescription":"Emotional Intelligence at School",
             "time":"5:00 PM"},
          {
           "id":4,
-            "image":"",
+            "image":"https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/1EDC76F2-62F4-41E4-AB39-388287312141.svg",
             "title":"Workshops",
             "activityDescription":"Digital Art for Beginners",
             "time":"7:00 PM"},
          {
           "id":5,
-            "image":"",
+            "image":"https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/831F3FA7-2F28-47E5-A8F5-FEA7DE520C36.svg",
             "title":"Qtalks",
             "activityDescription":"Importance of Yoga",
             "time":"8:00 PM"}
