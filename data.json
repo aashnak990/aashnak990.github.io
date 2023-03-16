@@ -663,6 +663,16 @@
             "title":"Qtalks",
             "activityDescription":"Importance of Yoga",
             "time":"8:00 PM"}
-      ]
+      ],
+      "latestNudgeFeedbackDetails":[{
+         "skillCategory":"Drawing",
+         "nudgeTitle":"Feedback On Drawing Composition",
+         "feedbackDetails":[{
+         "expertImage":"https://cdn-icons-png.flaticon.com/512/168/168724.png",
+            "expertName":"Atharva Kanse",
+            "time":"12 mins"
+            "feedbackComment":"The color scheme is inconsistent throughout the drawing"
+         }]
+      }]
    }
 ]
