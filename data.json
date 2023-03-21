@@ -1,76 +1,111 @@
 {
 	"qrenciaLogo": "https://www.qrencia.com/wp-content/uploads/2023/02/qrencia-logo-blue.jpg",
 	"desktopCarouselSection": {
-		"id": 1,
+		"sectionId": 1,
 		"isActive": "Y",
-		"desktopCarouselDetails": [{
+		"details": [{
 				"id": 1,
 				"image": "https://www.qrencia.com/wp-content/uploads/2022/11/1.-Skill-Competitions-on-Qrencia-2.png",
 				"heading": "Develop Extra-curricular Skills through Skill Competition",
-				"subHeading": "Get regular opportunities to showcase talent at comfort of your home and out of doors"
+				"subHeading": "Get regular opportunities to showcase talent at comfort of your home and out of doors",
+				"link":"https://www.google.com/"
 			},
 			{
 				"id": 2,
 				"image": "http://www.qrencia.com/wp-content/uploads/2022/11/2.-Extracurricular-Classes-on-Qrencia-2.png",
 				"heading": "Find Classes offered by top Experts as per your needs & schedule",
-				"subHeading": "Learn the skills you need to live your dreams in hobby, career and life."
+				"subHeading": "Learn the skills you need to live your dreams in hobby, career and life.",
+				"link":"https://www.google.com/"
 			},
 			{
 				"id": 3,
 				"image": "http://www.qrencia.com/wp-content/uploads/2022/11/3.-Instant-Feedback-on-Qrencia-2.png",
 				"heading": "Obtain instant nudge from global community of skill experts",
-				"subHeading": "Connect with passionate experts looking to spotlight the highs and lows in your work and help you improve."
+				"subHeading": "Connect with passionate experts looking to spotlight the highs and lows in your work and help you improve.",
+				"link":"https://www.google.com/"
+			}
+		]
+	},
+	"tabletCarouselSection": {
+		"sectionId": 2,
+		"isActive": "Y",
+		"details": [{
+				"id": 1,
+				"image": "https://www.qrencia.com/wp-content/uploads/2022/11/1.-Skill-Competitions-on-Qrencia-2.png",
+				"heading": "Develop Extra-curricular Skills through Skill Competition",
+				"subHeading": "Get regular opportunities to showcase talent at comfort of your home and out of doors",
+				"link":"https://www.google.com/"
+			},
+			{
+				"id": 2,
+				"image": "http://www.qrencia.com/wp-content/uploads/2022/11/2.-Extracurricular-Classes-on-Qrencia-2.png",
+				"heading": "Find Classes offered by top Experts as per your needs & schedule",
+				"subHeading": "Learn the skills you need to live your dreams in hobby, career and life.",
+				"link":"https://www.google.com/"
+			},
+			{
+				"id": 3,
+				"image": "http://www.qrencia.com/wp-content/uploads/2022/11/3.-Instant-Feedback-on-Qrencia-2.png",
+				"heading": "Obtain instant nudge from global community of skill experts",
+				"subHeading": "Connect with passionate experts looking to spotlight the highs and lows in your work and help you improve.",
+				"link":"https://www.google.com/"
 			}
 		]
 	},
 	"mobileCarouselSection": {
-		"id": 2,
+		"sectionId": 3,
 		"isActive": "Y",
-		"mobileCarouselDetails": [{
+		"details": [{
 				"id": 1,
 				"image": "http://www.qrencia.com/wp-content/uploads/2023/02/skill-competitions-on-qrencia-1.png",
 				"heading": "Develop Extra-curricular Skills through Skill Competition",
-				"subHeading": "Get regular opportunities to showcase talent at comfort of your home and out of doors"
+				"subHeading": "Get regular opportunities to showcase talent at comfort of your home and out of doors",
+				"link":"https://www.google.com/"
 			},
 			{
 				"id": 2,
 				"image": "http://www.qrencia.com/wp-content/uploads/2023/02/extracurricular-classes-on-qrencia-.png",
 				"heading": "Find Classes offered by top Experts as per your needs & schedule",
-				"subHeading": "Learn the skills you need to live your dreams in hobby, career and life."
+				"subHeading": "Learn the skills you need to live your dreams in hobby, career and life.",
+				"link":"https://www.google.com/"
 			},
 			{
 				"id": 3,
 				"image": "http://www.qrencia.com/wp-content/uploads/2023/02/instant-feedback-on-qrencia-1.png",
 				"heading": "Obtain instant nudge from global community of skill experts",
-				"subHeading": "Connect with passionate experts looking to spotlight the highs and lows in your work and help you improve."
+				"subHeading": "Connect with passionate experts looking to spotlight the highs and lows in your work and help you improve.",
+				"link":"https://www.google.com/"
 			}
 		]
 	},
 	"qrenciaAtGlanceSection": {
-		"id": 3,
+		"sectionId": 4,
 		"isActive": "Y",
 		"heading": "Platform for Extra-curricular Skills Development",
 		"subHeading": "QRENCIA AT GLANCE",
 		"description": "Personalized learning ecosystem for effective Skill Development",
 		"image": "https://www.qrencia.com/wp-content/uploads/2022/11/Qrencia-at-Glance-Video-Thumbnail-496-X-355.png",
 		"video": "https://www.youtube.com/watch?v=CU0BpiADTeg",
-		"qrenciaAtGlanceCards": [{
+		"cards": [{
 				"id": 1,
 				"image": "https://www.qrencia.com/wp-content/uploads/2022/11/Group-1801.png",
 				"heading": "Competitions",
-				"description": "Access regular opportunities to showcase talent"
+				"description": "Access regular opportunities to showcase talent",
+				"link":"https://www.google.com/"
 			},
 			{
 				"id": 2,
 				"image": "https://www.qrencia.com/wp-content/uploads/2022/11/Group-1800@3x.png",
 				"heading": "Courses",
-				"description": "Learn from the top mentors from across the world"
+				"description": "Learn from the top mentors from across the world",
+				"link":"https://www.google.com/"
 			},
 			{
 				"id": 3,
 				"image": "https://www.qrencia.com/wp-content/uploads/2022/11/Group-1799@3x.png",
 				"heading": "Community",
-				"description": "Get instant feedback from global community of experts"
+				"description": "Get instant feedback from global community of experts",
+				"link":"https://www.google.com/"
 			}
 		]
 	}
