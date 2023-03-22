@@ -124,19 +124,45 @@
 		"buttonText":"Subscribe now",
 		"pointers": [{
 				"id": 1,
-				"image": "https://www.qrencia.com/wp-content/uploads/2022/11/Group-1801.png",
-				"heading": "Competitions"
+				"image": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/10B53AF8-7C5E-4E27-B80B-672A57CFC17F.svg",
+				"heading": "Unlimited Skill Competitions"
 			},
 			{
 				"id": 2,
-				"image": "https://www.qrencia.com/wp-content/uploads/2022/11/Group-1800@3x.png",
-				"heading": "Courses"
+				"image": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/47D90824-7718-4D2C-BD7B-06FA02BBBC20.svg",
+				"heading": "Recommendations"
 			},
 			{
 				"id": 3,
-				"image": "https://www.qrencia.com/wp-content/uploads/2022/11/Group-1799@3x.png",
-				"heading": "Community"
+				"image": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/0EABF503-74B9-474A-B022-4B64153710EC.svg",
+				"heading": "Performance Analysis"
+			},
+			     {
+				"id": 4,
+				"image": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/4939782D-2A22-4EC8-BE5A-D9FC3673B595.svg",
+				"heading": "Skill Passport"
+			},
+			     {
+				"id": 5,
+				"image": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/4DA46649-36AD-4D70-8928-2B0C5B8AFF48.svg",
+				"heading": "Nudge from Experts"
+			},
+			     {
+				"id": 6,
+				"image": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/91C956AA-8431-4D15-9E83-D62065BF8E1F.svg",
+				"heading": "Performance Rewards"
+			},
+			     {
+				"id": 7,
+				"image": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/33AA0208-CF89-4650-9641-80C209DB9CD2.svg",
+				"heading": "Global Community"
+			},
+			     {
+				"id": 8,
+				"image": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/69F18B04-7160-4B66-9449-3CD644D049D7.svg",
+				"heading": "Student Referral Bonus"
 			}
+			     
 		]
 	}
 }
