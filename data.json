@@ -5,6 +5,9 @@
 	"blueRectangle":"https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/B067E6D2-4CDC-4239-9851-3CA2D3BE6476.svg",
 	"videoPlayIcon":"https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/D21FCB14-30D7-4DF0-87F9-645BBBC3A2DF.svg",
 	"backgroundDotsImage":"https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/5FBC301A-E95B-4A2E-8EC4-D0C23DBD0EB1.svg",
+	"backgroundDotsSmallImage":"https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/C3FAE438-996C-4A2C-ADF4-3876ECDFFC0C.svg",
+	"backgroundBlueDiamondImage":"https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/8591A954-E333-436F-A873-553AAB154937.svg",
+	"whatMoreSectionBackgroundImage":"https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/B712288D-C80C-4875-AE87-DEA0DC47B7E3.svg",
 	"desktopCarouselSection": {
 		"sectionId": 1,
 		"isActive": "Y",
