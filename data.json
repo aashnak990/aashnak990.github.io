@@ -112,5 +112,31 @@
 				"link":"http://localhost:3000/"
 			}
 		]
+	},
+	"discoverPassionSection": {
+		"sectionId": 5,
+		"isActive": "Y",
+		"heading": "Discover your passion with Qrencia",
+		"subHeading": "Annual Subscription: INR 6000",
+		"description": "What you get?",
+		"image": "https://www.qrencia.com/wp-content/uploads/2022/11/Subscription-Plan-454-X-472-768x798.png",
+		"link":"http://localhost:3000/",
+		"buttonText":"Subscribe now",
+		"pointers": [{
+				"id": 1,
+				"image": "https://www.qrencia.com/wp-content/uploads/2022/11/Group-1801.png",
+				"heading": "Competitions"
+			},
+			{
+				"id": 2,
+				"image": "https://www.qrencia.com/wp-content/uploads/2022/11/Group-1800@3x.png",
+				"heading": "Courses"
+			},
+			{
+				"id": 3,
+				"image": "https://www.qrencia.com/wp-content/uploads/2022/11/Group-1799@3x.png",
+				"heading": "Community"
+			}
+		]
 	}
 }
