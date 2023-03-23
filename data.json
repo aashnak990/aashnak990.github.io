@@ -202,7 +202,7 @@
       }
     ]
   },
-  "impactOfQrenciaSection": {
+  "impactCreatedByQrenciaSection": {
     "sectionId": 7,
     "isActive": "Y",
     "heading": "Impact created by Qrencia",
