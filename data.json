@@ -223,5 +223,36 @@
         "subHeading":"Performance Analysis Report Generated"
       }
     ]
+  }.
+   "qrenciaInNewsSection": {
+    "sectionId": 9,
+    "isActive": "Y",
+    "heading": "Qrencia in News",
+    "cards": [
+      {
+        "id": 1,
+        "image":"https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/B729FAC1-BC01-45D6-A89F-642C585B0468.png",
+        "heading": "Silver Medal - WorldSkills Kazan Russia 2019",
+        "subHeading":"Qrencia helped team India create history at WorldSkills International Competition. Pranav Nutalapati,a 16-year-old young boy from Bangalore was mentored by Ms. Ruchi Pareek (National Expert, Web Technologies) using Qrencia and bagged the first ever Silver medal in Web Technologies Skill for India in WorldSkills Competition Kazan, Russia 2019. Union Minister, Ministry of Skill Development and Entrepreneurship felicitated team Qrencia for the unparalleled contribution to the Nation."
+      },
+      {
+        "id": 2,
+        "image":"https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/B729FAC1-BC01-45D6-A89F-642C585B0468.png",
+        "heading": "Silver Medal - WorldSkills Kazan Russia 2019",
+        "subHeading":"Qrencia helped team India create history at WorldSkills International Competition. Pranav Nutalapati,a 16-year-old young boy from Bangalore was mentored by Ms. Ruchi Pareek (National Expert, Web Technologies) using Qrencia and bagged the first ever Silver medal in Web Technologies Skill for India in WorldSkills Competition Kazan, Russia 2019. Union Minister, Ministry of Skill Development and Entrepreneurship felicitated team Qrencia for the unparalleled contribution to the Nation."
+      },
+      {
+        "id": 3,
+        "image":"https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/B729FAC1-BC01-45D6-A89F-642C585B0468.png",
+        "heading": "Silver Medal - WorldSkills Kazan Russia 2019",
+        "subHeading":"Qrencia helped team India create history at WorldSkills International Competition. Pranav Nutalapati,a 16-year-old young boy from Bangalore was mentored by Ms. Ruchi Pareek (National Expert, Web Technologies) using Qrencia and bagged the first ever Silver medal in Web Technologies Skill for India in WorldSkills Competition Kazan, Russia 2019. Union Minister, Ministry of Skill Development and Entrepreneurship felicitated team Qrencia for the unparalleled contribution to the Nation."
+      },
+      {
+        "id": 4,
+        "image":"https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/B729FAC1-BC01-45D6-A89F-642C585B0468.png",
+        "heading": "Silver Medal - WorldSkills Kazan Russia 2019",
+        "subHeading":"Qrencia helped team India create history at WorldSkills International Competition. Pranav Nutalapati,a 16-year-old young boy from Bangalore was mentored by Ms. Ruchi Pareek (National Expert, Web Technologies) using Qrencia and bagged the first ever Silver medal in Web Technologies Skill for India in WorldSkills Competition Kazan, Russia 2019. Union Minister, Ministry of Skill Development and Entrepreneurship felicitated team Qrencia for the unparalleled contribution to the Nation."
+      }
+    ]
   }
 }
