@@ -1,254 +1,262 @@
 {
-	"qrenciaLogo": "https://www.qrencia.com/wp-content/uploads/2023/02/qrencia-logo-blue.jpg",
-	"blueTriangleImage": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/B493B79F-6B74-4B70-B39B-6E640CA9A5C3.svg",
-	"purpleTriangleImage": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/F07CD510-364E-4A86-8B4E-92C38ABF59C6.svg",
-	"orangeRectangle": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/A57B277C-99ED-4DC9-8B53-05DF82AC3690.svg",
-	"blueRectangle": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/B067E6D2-4CDC-4239-9851-3CA2D3BE6476.svg",
-	"videoPlayIcon": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/D21FCB14-30D7-4DF0-87F9-645BBBC3A2DF.svg",
-	"backgroundDotsImage": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/5FBC301A-E95B-4A2E-8EC4-D0C23DBD0EB1.svg",
-	"backgroundDotsSmallImage": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/C3FAE438-996C-4A2C-ADF4-3876ECDFFC0C.svg",
-	"backgroundBlueDiamondImage": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/8591A954-E333-436F-A873-553AAB154937.svg",
-	"whatMoreSectionBackgroundImage": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/B712288D-C80C-4875-AE87-DEA0DC47B7E3.svg",
-	"desktopCarouselSection": {
-		"sectionId": 1,
-		"isActive": "Y",
-		"details": [{
-				"id": 1,
-				"image": "https://www.qrencia.com/wp-content/uploads/2022/11/1.-Skill-Competitions-on-Qrencia-2.png",
-				"heading": "Develop Extra-curricular Skills through Skill Competition",
-				"subHeading": "Get regular opportunities to showcase talent at comfort of your home and out of doors",
-				"link": "http://localhost:3000/"
-			},
-			{
-				"id": 2,
-				"image": "http://www.qrencia.com/wp-content/uploads/2022/11/2.-Extracurricular-Classes-on-Qrencia-2.png",
-				"heading": "Find Classes offered by top Experts as per your needs & schedule",
-				"subHeading": "Learn the skills you need to live your dreams in hobby, career and life.",
-				"link": "http://localhost:3000/"
-			},
-			{
-				"id": 3,
-				"image": "http://www.qrencia.com/wp-content/uploads/2022/11/3.-Instant-Feedback-on-Qrencia-2.png",
-				"heading": "Obtain instant nudge from global community of skill experts",
-				"subHeading": "Connect with passionate experts looking to spotlight the highs and lows in your work and help you improve.",
-				"link": "http://localhost:3000/"
-			}
-		]
-	},
-	"tabletCarouselSection": {
-		"sectionId": 2,
-		"isActive": "Y",
-		"details": [{
-				"id": 1,
-				"image": "https://www.qrencia.com/wp-content/uploads/2022/11/1.-Skill-Competitions-on-Qrencia-2.png",
-				"heading": "Develop Extra-curricular Skills through Skill Competition",
-				"subHeading": "Get regular opportunities to showcase talent at comfort of your home and out of doors",
-				"link": "http://localhost:3000/"
-			},
-			{
-				"id": 2,
-				"image": "http://www.qrencia.com/wp-content/uploads/2022/11/2.-Extracurricular-Classes-on-Qrencia-2.png",
-				"heading": "Find Classes offered by top Experts as per your needs & schedule",
-				"subHeading": "Learn the skills you need to live your dreams in hobby, career and life.",
-				"link": "http://localhost:3000/"
-			},
-			{
-				"id": 3,
-				"image": "http://www.qrencia.com/wp-content/uploads/2022/11/3.-Instant-Feedback-on-Qrencia-2.png",
-				"heading": "Obtain instant nudge from global community of skill experts",
-				"subHeading": "Connect with passionate experts looking to spotlight the highs and lows in your work and help you improve.",
-				"link": "http://localhost:3000/"
-			}
-		]
-	},
-	"mobileCarouselSection": {
-		"sectionId": 3,
-		"isActive": "Y",
-		"details": [{
-				"id": 1,
-				"image": "http://www.qrencia.com/wp-content/uploads/2023/02/skill-competitions-on-qrencia-1.png",
-				"heading": "Develop Extra-curricular Skills through Skill Competition",
-				"subHeading": "Get regular opportunities to showcase talent at comfort of your home and out of doors",
-				"link": "http://localhost:3000/"
-			},
-			{
-				"id": 2,
-				"image": "http://www.qrencia.com/wp-content/uploads/2023/02/extracurricular-classes-on-qrencia-.png",
-				"heading": "Find Classes offered by top Experts as per your needs & schedule",
-				"subHeading": "Learn the skills you need to live your dreams in hobby, career and life.",
-				"link": "http://localhost:3000/"
-			},
-			{
-				"id": 3,
-				"image": "http://www.qrencia.com/wp-content/uploads/2023/02/instant-feedback-on-qrencia-1.png",
-				"heading": "Obtain instant nudge from global community of skill experts",
-				"subHeading": "Connect with passionate experts looking to spotlight the highs and lows in your work and help you improve.",
-				"link": "http://localhost:3000/"
-			}
-		]
-	},
-	"qrenciaAtGlanceSection": {
-		"sectionId": 4,
-		"isActive": "Y",
-		"heading": "Platform for Extra-curricular Skills Development",
-		"subHeading": "QRENCIA AT GLANCE",
-		"description": "Personalized learning ecosystem for effective Skill Development",
-		"image": "https://www.qrencia.com/wp-content/uploads/2022/11/Qrencia-at-Glance-Video-Thumbnail-496-X-355.png",
-		"video": "PVA7e9yqjjA",
-		"cards": [{
-				"id": 1,
-				"image": "https://www.qrencia.com/wp-content/uploads/2022/11/Group-1801.png",
-				"heading": "Competitions",
-				"description": "Access regular opportunities to showcase talent",
-				"link": "http://localhost:3000/"
-			},
-			{
-				"id": 2,
-				"image": "https://www.qrencia.com/wp-content/uploads/2022/11/Group-1800@3x.png",
-				"heading": "Courses",
-				"description": "Learn from the top mentors from across the world",
-				"link": "http://localhost:3000/"
-			},
-			{
-				"id": 3,
-				"image": "https://www.qrencia.com/wp-content/uploads/2022/11/Group-1799@3x.png",
-				"heading": "Community",
-				"description": "Get instant feedback from global community of experts",
-				"link": "http://localhost:3000/"
-			}
-		]
-	},
-	"discoverPassionSection": {
-		"sectionId": 5,
-		"isActive": "Y",
-		"heading": "Discover your passion with Qrencia",
-		"subHeading": "Annual Subscription: INR 6000",
-		"description": "What you get?",
-		"image": "https://www.qrencia.com/wp-content/uploads/2022/11/Subscription-Plan-454-X-472-768x798.png",
-		"link": "http://localhost:3000/",
-		"buttonText": "Subscribe now",
-		"pointers": [{
-				"id": 1,
-				"image": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/10B53AF8-7C5E-4E27-B80B-672A57CFC17F.svg",
-				"heading": "Unlimited Skill Competitions"
-			},
-			{
-				"id": 2,
-				"image": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/47D90824-7718-4D2C-BD7B-06FA02BBBC20.svg",
-				"heading": "Recommendations"
-			},
-			{
-				"id": 3,
-				"image": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/0EABF503-74B9-474A-B022-4B64153710EC.svg",
-				"heading": "Performance Analysis"
-			},
-			{
-				"id": 4,
-				"image": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/4939782D-2A22-4EC8-BE5A-D9FC3673B595.svg",
-				"heading": "Skill Passport"
-			},
-			{
-				"id": 5,
-				"image": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/4DA46649-36AD-4D70-8928-2B0C5B8AFF48.svg",
-				"heading": "Nudge from Experts"
-			},
-			{
-				"id": 6,
-				"image": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/91C956AA-8431-4D15-9E83-D62065BF8E1F.svg",
-				"heading": "Performance Rewards"
-			},
-			{
-				"id": 7,
-				"image": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/33AA0208-CF89-4650-9641-80C209DB9CD2.svg",
-				"heading": "Global Community"
-			},
-			{
-				"id": 8,
-				"image": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/69F18B04-7160-4B66-9449-3CD644D049D7.svg",
-				"heading": "Student Referral Bonus"
-			}
-		]
-	},
-	"whatMoreYouGetSection": {
-		"sectionId": 6,
-		"isActive": "Y",
-		"heading": "What more you get on Qrencia?",
-		"description": "Learn from the global experts at affordable cost",
-		"cards": [{
-				"id": 1,
-				"image": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/27FFCE8D-8DD7-43C0-84DD-65D998A99144.svg",
-				"heading": "Courses",
-				"buttonText": "Know More",
-				"link": "http://localhost:3000/"
-			},
-			{
-				"id": 2,
-				"image": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/7D128CFB-CF0B-4A94-8C55-6FA34062328E.svg",
-				"heading": "Mentorship",
-				"buttonText": "Know More",
-				"link": "http://localhost:3000/"
-			}
-		]
-	},
-	"impactOfQrenciaSection": {
-		"sectionId": 7,
-		"isActive": "Y",
-		"heading": "Impact created by Qrencia",
-		"description": "Qrencia brought a revolution in skill development ecosystem through skill competitions",
-		"cards": [{
-				"id": 1,
-				"heading": "250K",
-				"subHeading": "Students Engaged"
-			},
-			{
-				"id": 2,
-				"heading": "100+",
-				"subHeading": "Competitions Conducted"
-			},
-			{
-				"id": 3,
-				"heading": "150",
-				"subHeading": "Experts Engaged"
-			},
-			{
-				"id": 4,
-				"heading": "1M",
-				"subHeading": "Performance Analysis Report Generated"
-			}
-		]
-	},
-	"qrenciaInNewsSection": {
-		"sectionId": 9,
-		"isActive": "Y",
-		"heading": "Qrencia in News",
-		"cards": [{
-				"id": 1,
-				"image": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/B729FAC1-BC01-45D6-A89F-642C585B0468.png",
-				"link": "http://localhost:3000/",
-				"heading": "Silver Medal - WorldSkills Kazan Russia 2019",
-				"subHeading": "Qrencia helped team India create history at WorldSkills International Competition. Pranav Nutalapati,a 16-year-old young boy from Bangalore was mentored by Ms. Ruchi Pareek (National Expert, Web Technologies) using Qrencia and bagged the first ever Silver medal in Web Technologies Skill for India in WorldSkills Competition Kazan, Russia 2019. Union Minister, Ministry of Skill Development and Entrepreneurship felicitated team Qrencia for the unparalleled contribution to the Nation."
-			},
-			{
-				"id": 2,
-				"image": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/B729FAC1-BC01-45D6-A89F-642C585B0468.png",
-				"link": "http://localhost:3000/",
-				"heading": "Silver Medal - WorldSkills Kazan Russia 2019",
-				"subHeading": "Qrencia helped team India create history at WorldSkills International Competition. Pranav Nutalapati,a 16-year-old young boy from Bangalore was mentored by Ms. Ruchi Pareek (National Expert, Web Technologies) using Qrencia and bagged the first ever Silver medal in Web Technologies Skill for India in WorldSkills Competition Kazan, Russia 2019. Union Minister, Ministry of Skill Development and Entrepreneurship felicitated team Qrencia for the unparalleled contribution to the Nation."
-			},
-			{
-				"id": 3,
-				"image": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/B729FAC1-BC01-45D6-A89F-642C585B0468.png",
-				"link": "http://localhost:3000/",
-				"heading": "Silver Medal - WorldSkills Kazan Russia 2019",
-				"subHeading": "Qrencia helped team India create history at WorldSkills International Competition. Pranav Nutalapati,a 16-year-old young boy from Bangalore was mentored by Ms. Ruchi Pareek (National Expert, Web Technologies) using Qrencia and bagged the first ever Silver medal in Web Technologies Skill for India in WorldSkills Competition Kazan, Russia 2019. Union Minister, Ministry of Skill Development and Entrepreneurship felicitated team Qrencia for the unparalleled contribution to the Nation."
-			},
-			{
-				"id": 4,
-				"image": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/B729FAC1-BC01-45D6-A89F-642C585B0468.png",
-				"link": "http://localhost:3000/",
-				"heading": "Silver Medal - WorldSkills Kazan Russia 2019",
-				"subHeading": "Qrencia helped team India create history at WorldSkills International Competition. Pranav Nutalapati,a 16-year-old young boy from Bangalore was mentored by Ms. Ruchi Pareek (National Expert, Web Technologies) using Qrencia and bagged the first ever Silver medal in Web Technologies Skill for India in WorldSkills Competition Kazan, Russia 2019. Union Minister, Ministry of Skill Development and Entrepreneurship felicitated team Qrencia for the unparalleled contribution to the Nation."
-			}
-		]
-	}
+  "qrenciaLogo": "https://www.qrencia.com/wp-content/uploads/2023/02/qrencia-logo-blue.jpg",
+  "blueTriangleImage": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/B493B79F-6B74-4B70-B39B-6E640CA9A5C3.svg",
+  "purpleTriangleImage": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/F07CD510-364E-4A86-8B4E-92C38ABF59C6.svg",
+  "orangeRectangle": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/A57B277C-99ED-4DC9-8B53-05DF82AC3690.svg",
+  "blueRectangle": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/B067E6D2-4CDC-4239-9851-3CA2D3BE6476.svg",
+  "videoPlayIcon": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/D21FCB14-30D7-4DF0-87F9-645BBBC3A2DF.svg",
+  "backgroundDotsImage": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/5FBC301A-E95B-4A2E-8EC4-D0C23DBD0EB1.svg",
+  "backgroundDotsSmallImage": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/C3FAE438-996C-4A2C-ADF4-3876ECDFFC0C.svg",
+  "backgroundBlueDiamondImage": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/8591A954-E333-436F-A873-553AAB154937.svg",
+  "whatMoreSectionBackgroundImage": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/B712288D-C80C-4875-AE87-DEA0DC47B7E3.svg",
+  "desktopCarouselSection": {
+    "sectionId": 1,
+    "isActive": "Y",
+    "details": [
+      {
+        "id": 1,
+        "image": "https://www.qrencia.com/wp-content/uploads/2022/11/1.-Skill-Competitions-on-Qrencia-2.png",
+        "heading": "Develop Extra-curricular Skills through Skill Competition",
+        "subHeading": "Get regular opportunities to showcase talent at comfort of your home and out of doors",
+        "link": "http://localhost:3000/"
+      },
+      {
+        "id": 2,
+        "image": "http://www.qrencia.com/wp-content/uploads/2022/11/2.-Extracurricular-Classes-on-Qrencia-2.png",
+        "heading": "Find Classes offered by top Experts as per your needs & schedule",
+        "subHeading": "Learn the skills you need to live your dreams in hobby, career and life.",
+        "link": "http://localhost:3000/"
+      },
+      {
+        "id": 3,
+        "image": "http://www.qrencia.com/wp-content/uploads/2022/11/3.-Instant-Feedback-on-Qrencia-2.png",
+        "heading": "Obtain instant nudge from global community of skill experts",
+        "subHeading": "Connect with passionate experts looking to spotlight the highs and lows in your work and help you improve.",
+        "link": "http://localhost:3000/"
+      }
+    ]
+  },
+  "tabletCarouselSection": {
+    "sectionId": 2,
+    "isActive": "Y",
+    "details": [
+      {
+        "id": 1,
+        "image": "https://www.qrencia.com/wp-content/uploads/2022/11/1.-Skill-Competitions-on-Qrencia-2.png",
+        "heading": "Develop Extra-curricular Skills through Skill Competition",
+        "subHeading": "Get regular opportunities to showcase talent at comfort of your home and out of doors",
+        "link": "http://localhost:3000/"
+      },
+      {
+        "id": 2,
+        "image": "http://www.qrencia.com/wp-content/uploads/2022/11/2.-Extracurricular-Classes-on-Qrencia-2.png",
+        "heading": "Find Classes offered by top Experts as per your needs & schedule",
+        "subHeading": "Learn the skills you need to live your dreams in hobby, career and life.",
+        "link": "http://localhost:3000/"
+      },
+      {
+        "id": 3,
+        "image": "http://www.qrencia.com/wp-content/uploads/2022/11/3.-Instant-Feedback-on-Qrencia-2.png",
+        "heading": "Obtain instant nudge from global community of skill experts",
+        "subHeading": "Connect with passionate experts looking to spotlight the highs and lows in your work and help you improve.",
+        "link": "http://localhost:3000/"
+      }
+    ]
+  },
+  "mobileCarouselSection": {
+    "sectionId": 3,
+    "isActive": "Y",
+    "details": [
+      {
+        "id": 1,
+        "image": "http://www.qrencia.com/wp-content/uploads/2023/02/skill-competitions-on-qrencia-1.png",
+        "heading": "Develop Extra-curricular Skills through Skill Competition",
+        "subHeading": "Get regular opportunities to showcase talent at comfort of your home and out of doors",
+        "link": "http://localhost:3000/"
+      },
+      {
+        "id": 2,
+        "image": "http://www.qrencia.com/wp-content/uploads/2023/02/extracurricular-classes-on-qrencia-.png",
+        "heading": "Find Classes offered by top Experts as per your needs & schedule",
+        "subHeading": "Learn the skills you need to live your dreams in hobby, career and life.",
+        "link": "http://localhost:3000/"
+      },
+      {
+        "id": 3,
+        "image": "http://www.qrencia.com/wp-content/uploads/2023/02/instant-feedback-on-qrencia-1.png",
+        "heading": "Obtain instant nudge from global community of skill experts",
+        "subHeading": "Connect with passionate experts looking to spotlight the highs and lows in your work and help you improve.",
+        "link": "http://localhost:3000/"
+      }
+    ]
+  },
+  "qrenciaAtGlanceSection": {
+    "sectionId": 4,
+    "isActive": "Y",
+    "heading": "Platform for Extra-curricular Skills Development",
+    "subHeading": "QRENCIA AT GLANCE",
+    "description": "Personalized learning ecosystem for effective Skill Development",
+    "image": "https://www.qrencia.com/wp-content/uploads/2022/11/Qrencia-at-Glance-Video-Thumbnail-496-X-355.png",
+    "video": "PVA7e9yqjjA",
+    "cards": [
+      {
+        "id": 1,
+        "image": "https://www.qrencia.com/wp-content/uploads/2022/11/Group-1801.png",
+        "heading": "Competitions",
+        "description": "Access regular opportunities to showcase talent",
+        "link": "http://localhost:3000/"
+      },
+      {
+        "id": 2,
+        "image": "https://www.qrencia.com/wp-content/uploads/2022/11/Group-1800@3x.png",
+        "heading": "Courses",
+        "description": "Learn from the top mentors from across the world",
+        "link": "http://localhost:3000/"
+      },
+      {
+        "id": 3,
+        "image": "https://www.qrencia.com/wp-content/uploads/2022/11/Group-1799@3x.png",
+        "heading": "Community",
+        "description": "Get instant feedback from global community of experts",
+        "link": "http://localhost:3000/"
+      }
+    ]
+  },
+  "discoverPassionSection": {
+    "sectionId": 5,
+    "isActive": "Y",
+    "heading": "Discover your passion with Qrencia",
+    "subHeading": "Annual Subscription: INR 6000",
+    "description": "What you get?",
+    "image": "https://www.qrencia.com/wp-content/uploads/2022/11/Subscription-Plan-454-X-472-768x798.png",
+    "link": "http://localhost:3000/",
+    "buttonText": "Subscribe now",
+    "pointers": [
+      {
+        "id": 1,
+        "image": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/10B53AF8-7C5E-4E27-B80B-672A57CFC17F.svg",
+        "heading": "Unlimited Skill Competitions"
+      },
+      {
+        "id": 2,
+        "image": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/47D90824-7718-4D2C-BD7B-06FA02BBBC20.svg",
+        "heading": "Recommendations"
+      },
+      {
+        "id": 3,
+        "image": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/0EABF503-74B9-474A-B022-4B64153710EC.svg",
+        "heading": "Performance Analysis"
+      },
+      {
+        "id": 4,
+        "image": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/4939782D-2A22-4EC8-BE5A-D9FC3673B595.svg",
+        "heading": "Skill Passport"
+      },
+      {
+        "id": 5,
+        "image": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/4DA46649-36AD-4D70-8928-2B0C5B8AFF48.svg",
+        "heading": "Nudge from Experts"
+      },
+      {
+        "id": 6,
+        "image": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/91C956AA-8431-4D15-9E83-D62065BF8E1F.svg",
+        "heading": "Performance Rewards"
+      },
+      {
+        "id": 7,
+        "image": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/33AA0208-CF89-4650-9641-80C209DB9CD2.svg",
+        "heading": "Global Community"
+      },
+      {
+        "id": 8,
+        "image": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/69F18B04-7160-4B66-9449-3CD644D049D7.svg",
+        "heading": "Student Referral Bonus"
+      }
+    ]
+  },
+  "whatMoreYouGetSection": {
+    "sectionId": 6,
+    "isActive": "Y",
+    "heading": "What more you get on Qrencia?",
+    "description": "Learn from the global experts at affordable cost",
+    "cards": [
+      {
+        "id": 1,
+        "image": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/27FFCE8D-8DD7-43C0-84DD-65D998A99144.svg",
+        "heading": "Courses",
+        "buttonText": "Know More",
+        "link": "http://localhost:3000/"
+      },
+      {
+        "id": 2,
+        "image": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/7D128CFB-CF0B-4A94-8C55-6FA34062328E.svg",
+        "heading": "Mentorship",
+        "buttonText": "Know More",
+        "link": "http://localhost:3000/"
+      }
+    ]
+  },
+  "impactOfQrenciaSection": {
+    "sectionId": 7,
+    "isActive": "Y",
+    "heading": "Impact created by Qrencia",
+    "description": "Qrencia brought a revolution in skill development ecosystem through skill competitions",
+    "cards": [
+      {
+        "id": 1,
+        "heading": "250K",
+        "subHeading": "Students Engaged"
+      },
+      {
+        "id": 2,
+        "heading": "100+",
+        "subHeading": "Competitions Conducted"
+      },
+      {
+        "id": 3,
+        "heading": "150",
+        "subHeading": "Experts Engaged"
+      },
+      {
+        "id": 4,
+        "heading": "1M",
+        "subHeading": "Performance Analysis Report Generated"
+      }
+    ]
+  },
+  "qrenciaInNewsSection": {
+    "sectionId": 9,
+    "isActive": "Y",
+    "heading": "Qrencia in News",
+    "cards": [
+      {
+        "id": 1,
+        "image": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/B729FAC1-BC01-45D6-A89F-642C585B0468.png",
+        "link": "http://localhost:3000/",
+        "heading": "Silver Medal - WorldSkills Kazan Russia 2019",
+        "subHeading": "Qrencia helped team India create history at WorldSkills International Competition. Pranav Nutalapati,a 16-year-old young boy from Bangalore was mentored by Ms. Ruchi Pareek (National Expert, Web Technologies) using Qrencia and bagged the first ever Silver medal in Web Technologies Skill for India in WorldSkills Competition Kazan, Russia 2019. Union Minister, Ministry of Skill Development and Entrepreneurship felicitated team Qrencia for the unparalleled contribution to the Nation."
+      },
+      {
+        "id": 2,
+        "image": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/B729FAC1-BC01-45D6-A89F-642C585B0468.png",
+        "link": "http://localhost:3000/",
+        "heading": "Silver Medal - WorldSkills Kazan Russia 2019",
+        "subHeading": "Qrencia helped team India create history at WorldSkills International Competition. Pranav Nutalapati,a 16-year-old young boy from Bangalore was mentored by Ms. Ruchi Pareek (National Expert, Web Technologies) using Qrencia and bagged the first ever Silver medal in Web Technologies Skill for India in WorldSkills Competition Kazan, Russia 2019. Union Minister, Ministry of Skill Development and Entrepreneurship felicitated team Qrencia for the unparalleled contribution to the Nation."
+      },
+      {
+        "id": 3,
+        "image": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/B729FAC1-BC01-45D6-A89F-642C585B0468.png",
+        "link": "http://localhost:3000/",
+        "heading": "Silver Medal - WorldSkills Kazan Russia 2019",
+        "subHeading": "Qrencia helped team India create history at WorldSkills International Competition. Pranav Nutalapati,a 16-year-old young boy from Bangalore was mentored by Ms. Ruchi Pareek (National Expert, Web Technologies) using Qrencia and bagged the first ever Silver medal in Web Technologies Skill for India in WorldSkills Competition Kazan, Russia 2019. Union Minister, Ministry of Skill Development and Entrepreneurship felicitated team Qrencia for the unparalleled contribution to the Nation."
+      },
+      {
+        "id": 4,
+        "image": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/B729FAC1-BC01-45D6-A89F-642C585B0468.png",
+        "link": "http://localhost:3000/",
+        "heading": "Silver Medal - WorldSkills Kazan Russia 2019",
+        "subHeading": "Qrencia helped team India create history at WorldSkills International Competition. Pranav Nutalapati,a 16-year-old young boy from Bangalore was mentored by Ms. Ruchi Pareek (National Expert, Web Technologies) using Qrencia and bagged the first ever Silver medal in Web Technologies Skill for India in WorldSkills Competition Kazan, Russia 2019. Union Minister, Ministry of Skill Development and Entrepreneurship felicitated team Qrencia for the unparalleled contribution to the Nation."
+      }
+    ]
+  }
 }
