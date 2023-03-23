@@ -258,5 +258,9 @@
         "description": "Qrencia helped team India create history at WorldSkills International Competition. Pranav Nutalapati,a 16-year-old young boy from Bangalore was mentored by Ms. Ruchi Pareek."
       }
     ]
+  },
+  "footerSection": {
+    "sectionId": 10,
+    "isActive": "Y"
   }
 }
