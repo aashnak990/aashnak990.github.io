@@ -195,5 +195,33 @@
         "link": "http://localhost:3000/"
       }
     ]
+  },
+  "impactOfQrenciaSection": {
+    "sectionId": 7,
+    "isActive": "Y",
+    "heading": "Impact created by Qrencia",
+    "description": "Qrencia brought a revolution in skill development ecosystem through skill competitions",
+    "cards": [
+      {
+        "id": 1,
+        "heading": "250K",
+        "subHeading":"Students Engaged"
+      },
+      {
+        "id": 2,
+        "heading": "100+",
+        "subHeading":"Competitions Conducted"
+      },
+      {
+        "id": 3,
+        "heading": "150",
+        "subHeading":"Experts Engaged"
+      },
+      {
+        "id": 4,
+        "heading": "1M",
+        "subHeading":"Performance Analysis Report Generated"
+      }
+    ]
   }
 }
