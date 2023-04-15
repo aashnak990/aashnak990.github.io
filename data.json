@@ -1,272 +1,688 @@
-{
-  "qrenciaLogo": "https://www.qrencia.com/wp-content/uploads/2023/02/qrencia-logo-blue.jpg",
-  "blueTriangleImage": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/B493B79F-6B74-4B70-B39B-6E640CA9A5C3.svg",
-  "purpleTriangleImage": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/F07CD510-364E-4A86-8B4E-92C38ABF59C6.svg",
-  "orangeRectangle": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/A57B277C-99ED-4DC9-8B53-05DF82AC3690.svg",
-  "blueRectangle": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/B067E6D2-4CDC-4239-9851-3CA2D3BE6476.svg",
-  "videoPlayIcon": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/D21FCB14-30D7-4DF0-87F9-645BBBC3A2DF.svg",
-  "backgroundDotsImage": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/5FBC301A-E95B-4A2E-8EC4-D0C23DBD0EB1.svg",
-  "backgroundDotsSmallImage": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/C3FAE438-996C-4A2C-ADF4-3876ECDFFC0C.svg",
-  "backgroundBlueDiamondImage": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/8591A954-E333-436F-A873-553AAB154937.svg",
-  "whatMoreSectionBackgroundImage": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/B712288D-C80C-4875-AE87-DEA0DC47B7E3.svg",
-  "impactCreatedByQrenciaBackgroundImage":"https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/E61C0569-649A-47BE-BC72-261B17DF5013.svg",
-  "darkPinkCircleImage":"https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/4D29BA81-936C-4D93-9AB8-81BDD91C5FCE.svg",
-  "blueCircleImage":"https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/C92F1FE4-1D0E-48F4-8C5D-1694427D068B.svg",
-  "lightPinkCircleImage":"https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/728D7351-402B-4FA7-8E47-FC5A28F532FD.svg",
-  "purpleCircleImage":"https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/958BF080-3612-40C1-A782-064043793D09.svg",
-  "qrenciaSkillsSectionBackgroundImage":"https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/B30BF4A2-CB0D-45E4-BBCC-9DD8AE0FCDBE.svg",
-  "desktopCarouselSection": {
-    "sectionId": 1,
-    "isActive": "Y",
-    "details": [
+[
+  {
+    "qrenciaLogo": "https://www.qrencia.com/wp-content/uploads/2023/02/qrencia-logo-blue.jpg",
+    "myLearningIcon": "https://cdn.iconscout.com/icon/free/png-256/learning-95-1108404.png?f=webp&w=256",
+    "myAnalysisIconSvg": "https://www.svgrepo.com/download/17605/analysis.svg",
+    "bellLogo": "https://www.svgrepo.com/show/31480/notification-bell.svg",
+    "profileImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png",
+    "profileName": "Prateek Kapoor",
+    "profileDetail": "Student CSE, ABESIT Ghaziabad",
+    "competitionsCount": "22",
+    "berylCount": "10",
+    "homeIcon": "https://i.pinimg.com/originals/f6/99/7f/f6997fd8c81a677a70c18fc009dc0de6.png",
+    "competitionIcon": "https://cdn-icons-png.flaticon.com/512/74/74134.png",
+    "skillLabIcon": "https://cdn-icons-png.flaticon.com/512/4320/4320247.png",
+    "expoloreSkillsIcon": "https://cdn-icons-png.flaticon.com/512/4344/4344806.png",
+    "workshopIcon": "https://cdn-icons-png.flaticon.com/512/55/55281.png",
+    "mySchoolIcon": "https://cdn-icons-png.flaticon.com/512/2904/2904826.png",
+    "notificationCount": "2",
+    "skillsList": [
       {
-        "id": 1,
+        "id": "1",
+        "skillName": "Communication"
+      },
+      {
+        "id": "2",
+        "skillName": "Technology"
+      }
+    ],
+    "activitiesList": [
+      {
+        "id": "1",
+        "activityName": "Coloring"
+      },
+      {
+        "id": "2",
+        "activityName": "Web Development"
+      }
+    ],
+    "modesList": [
+      {
+        "id": "1",
+        "modeName": "Online"
+      },
+      {
+        "id": "2",
+        "modeName": "Offline"
+      }
+    ],
+    "todaysCompetitions": [
+      {
+        "title": "Cooking Without Fire",
+        "image": "https://www.sitters.co.uk/media/1157229/15-fun-cooking-activities-main.png",
+        "date": "22nd Feb, 2022",
+        "mode": "Online",
+        "time": "6:00 PM - 9:00 PM",
+        "timeLeft": "30 mins",
+        "id": "1",
+        "enrolledFlag": "N",
+        "enrolledCount": "200+",
+        "location": "null",
+        "skillCategoryId": "1",
+        "skillCategory": "Fine Arts",
+        "enrolledCandidates": [
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          },
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          },
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          },
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          },
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          }
+        ]
+      },
+      {
+        "title": "Puppet Modelling",
+        "image": "https://i.ytimg.com/vi/IVu6354FcM4/maxresdefault.jpg",
+        "date": "23rd Feb, 2022",
+        "mode": "Offline",
+        "time": "6:00 PM - 9:00 PM",
+        "timeLeft": "6 hours",
+        "id": "2",
+        "enrolledFlag": "N",
+        "enrolledCount": "400+",
+        "location": "Kavi Nagar Ghaziabad",
+        "skillCategoryId": "1",
+        "skillCategory": "Fine Arts",
+        "enrolledCandidates": [
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          },
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          },
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          },
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          },
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          }
+        ]
+      },
+      {
+        "title": "Cooking Without Fire",
+        "image": "https://www.sitters.co.uk/media/1157229/15-fun-cooking-activities-main.png",
+        "date": "22nd Feb, 2022",
+        "mode": "Online",
+        "time": "6:00 PM - 9:00 PM",
+        "timeLeft": "6 hours",
+        "id": "3",
+        "enrolledFlag": "N",
+        "enrolledCount": "200+",
+        "location": "null",
+        "skillCategoryId": "1",
+        "skillCategory": "Fine Arts",
+        "enrolledCandidates": [
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          },
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          },
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          },
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          },
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          }
+        ]
+      },
+      {
+        "title": "Puppet Modelling",
+        "image": "https://i.ytimg.com/vi/IVu6354FcM4/maxresdefault.jpg",
+        "date": "23rd Feb, 2022",
+        "mode": "Offline",
+        "time": "6:00 PM - 9:00 PM",
+        "timeLeft": "11 hours",
+        "id": "4",
+        "enrolledFlag": "N",
+        "enrolledCount": "400+",
+        "location": "Kavi Nagar Ghaziabad",
+        "skillCategoryId": "1",
+        "skillCategory": "Fine Arts",
+        "enrolledCandidates": [
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          },
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          },
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          },
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          },
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          }
+        ]
+      },
+      {
+        "title": "Cooking Without Fire",
+        "image": "https://www.sitters.co.uk/media/1157229/15-fun-cooking-activities-main.png",
+        "date": "22nd Feb, 2022",
+        "mode": "Online",
+        "time": "6:00 PM - 9:00 PM",
+        "timeLeft": "16 hours",
+        "id": "5",
+        "enrolledFlag": "N",
+        "enrolledCount": "200+",
+        "location": "null",
+        "skillCategoryId": "1",
+        "skillCategory": "Fine Arts",
+        "enrolledCandidates": [
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          },
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          },
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          },
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          },
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          }
+        ]
+      },
+      {
+        "title": "Cooking Without Fire",
+        "image": "https://www.sitters.co.uk/media/1157229/15-fun-cooking-activities-main.png",
+        "date": "22nd Feb, 2022",
+        "mode": "Online",
+        "time": "6:00 PM - 9:00 PM",
+        "timeLeft": "16 hours",
+        "id": "6",
+        "enrolledFlag": "N",
+        "enrolledCount": "200+",
+        "location": "null",
+        "skillCategoryId": "1",
+        "skillCategory": "Fine Arts",
+        "enrolledCandidates": [
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          },
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          },
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          },
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          },
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          }
+        ]
+      },
+      {
+        "title": "Cooking Without Fire",
+        "image": "https://www.sitters.co.uk/media/1157229/15-fun-cooking-activities-main.png",
+        "date": "22nd Feb, 2022",
+        "mode": "Online",
+        "time": "6:00 PM - 9:00 PM",
+        "timeLeft": "16 hours",
+        "id": "7",
+        "enrolledFlag": "N",
+        "enrolledCount": "200+",
+        "location": "null",
+        "skillCategoryId": "1",
+        "skillCategory": "Fine Arts",
+        "enrolledCandidates": [
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          },
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          },
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          },
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          },
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          }
+        ]
+      },
+      {
+        "title": "Cooking Without Fire",
+        "image": "https://www.sitters.co.uk/media/1157229/15-fun-cooking-activities-main.png",
+        "date": "22nd Feb, 2022",
+        "mode": "Online",
+        "time": "6:00 PM - 9:00 PM",
+        "timeLeft": "16 hours",
+        "id": "8",
+        "enrolledFlag": "N",
+        "enrolledCount": "200+",
+        "location": "null",
+        "skillCategoryId": "2",
+        "skillCategory": "Comunication",
+        "enrolledCandidates": [
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          },
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          },
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          },
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          },
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          }
+        ]
+      },
+      {
+        "title": "Cooking Without Fire",
+        "image": "https://www.sitters.co.uk/media/1157229/15-fun-cooking-activities-main.png",
+        "date": "22nd Feb, 2022",
+        "mode": "Online",
+        "time": "6:00 PM - 9:00 PM",
+        "timeLeft": "16 hours",
+        "id": "9",
+        "enrolledFlag": "N",
+        "enrolledCount": "200+",
+        "location": "null",
+        "skillCategoryId": "2",
+        "skillCategory": "Comunication",
+        "enrolledCandidates": [
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          },
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          },
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          },
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          },
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          }
+        ]
+      },
+      {
+        "title": "Cooking Without Fire",
+        "image": "https://www.sitters.co.uk/media/1157229/15-fun-cooking-activities-main.png",
+        "date": "22nd Feb, 2022",
+        "mode": "Online",
+        "time": "6:00 PM - 9:00 PM",
+        "timeLeft": "16 hours",
+        "id": "10",
+        "enrolledFlag": "N",
+        "enrolledCount": "200+",
+        "location": "null",
+        "skillCategoryId": "2",
+        "skillCategory": "Comunication",
+        "enrolledCandidates": [
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          },
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          },
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          },
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          },
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          }
+        ]
+      },
+      {
+        "title": "Cooking Without Fire",
+        "image": "https://www.sitters.co.uk/media/1157229/15-fun-cooking-activities-main.png",
+        "date": "22nd Feb, 2022",
+        "mode": "Online",
+        "time": "6:00 PM - 9:00 PM",
+        "timeLeft": "16 hours",
+        "id": "11",
+        "enrolledFlag": "N",
+        "enrolledCount": "200+",
+        "location": "null",
+        "skillCategoryId": "2",
+        "skillCategory": "Comunication",
+        "enrolledCandidates": [
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          },
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          },
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          },
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          },
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          }
+        ]
+      },
+      {
+        "title": "Puppet Modelling",
+        "image": "https://i.ytimg.com/vi/IVu6354FcM4/maxresdefault.jpg",
+        "date": "23rd Feb, 2022",
+        "mode": "Offline",
+        "time": "6:00 PM - 9:00 PM",
+        "timeLeft": "11 hours",
+        "id": "12",
+        "enrolledFlag": "N",
+        "enrolledCount": "400+",
+        "location": "Kavi Nagar Ghaziabad",
+        "skillCategoryId": "3",
+        "skillCategory": "Sports & Cultural",
+        "enrolledCandidates": [
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          },
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          },
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          },
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          },
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          }
+        ]
+      },
+      {
+        "title": "Puppet Modelling",
+        "image": "https://i.ytimg.com/vi/IVu6354FcM4/maxresdefault.jpg",
+        "date": "23rd Feb, 2022",
+        "mode": "Offline",
+        "time": "6:00 PM - 9:00 PM",
+        "timeLeft": "11 hours",
+        "id": "13",
+        "enrolledFlag": "N",
+        "enrolledCount": "400+",
+        "location": "Kavi Nagar Ghaziabad",
+        "skillCategoryId": "4",
+        "skillCategory": "Vocational",
+        "enrolledCandidates": [
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          },
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          },
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          },
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          },
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          }
+        ]
+      },
+      {
+        "title": "Puppet Modelling",
+        "image": "https://i.ytimg.com/vi/IVu6354FcM4/maxresdefault.jpg",
+        "date": "23rd Feb, 2022",
+        "mode": "Offline",
+        "time": "6:00 PM - 9:00 PM",
+        "timeLeft": "11 hours",
+        "id": "14",
+        "enrolledFlag": "N",
+        "enrolledCount": "400+",
+        "location": "Kavi Nagar Ghaziabad",
+        "skillCategoryId": "5",
+        "skillCategory": "Technology",
+        "enrolledCandidates": [
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          },
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          },
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          },
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          },
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          }
+        ]
+      },
+      {
+        "title": "Puppet Modelling",
+        "image": "https://i.ytimg.com/vi/IVu6354FcM4/maxresdefault.jpg",
+        "date": "23rd Feb, 2022",
+        "mode": "Offline",
+        "time": "6:00 PM - 9:00 PM",
+        "timeLeft": "11 hours",
+        "id": "15",
+        "enrolledFlag": "N",
+        "enrolledCount": "400+",
+        "location": "Kavi Nagar Ghaziabad",
+        "skillCategoryId": "6",
+        "skillCategory": "Life Skills",
+        "enrolledCandidates": [
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          },
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          },
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          },
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          },
+          {
+            "userImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png"
+          }
+        ]
+      }
+    ],
+    "todaysClasses": [
+      {
+        "title": "Master Illustration: Sketching, Inking & Color Essentials",
+        "image": "https://m.media-amazon.com/images/G/01/sp/CMS/Operations_jobs.jpg",
+        "date": "20th Dec, 2023",
+        "time": "10:00 AM - 11:00 AM",
+        "amount": "3,499",
+        "isEnrolled": "N"
+      },
+      {
+        "title": "Guitar lessons to create your own tune",
+        "image": "https://m.media-amazon.com/images/G/01/sp/CMS/Operations_jobs.jpg",
+        "date": "20th Dec, 2023",
+        "time": "10:00 AM - 11:00 AM",
+        "amount": "3,499",
+        "isEnrolled": "N"
+      },
+      {
+        "title": "Video editing  with adobe premiere pro",
+        "image": "https://m.media-amazon.com/images/G/01/sp/CMS/Operations_jobs.jpg",
+        "date": "20th Dec, 2023",
+        "time": "10:00 AM - 11:00 AM",
+        "amount": "3,499",
+        "isEnrolled": "N"
+      },
+      {
+        "title": "Creative writing bootcamp",
+        "image": "https://m.media-amazon.com/images/G/01/sp/CMS/Operations_jobs.jpg",
+        "date": "20th Dec, 2023",
+        "time": "10:00 AM - 11:00 AM",
+        "amount": "3,499",
+        "isEnrolled": "N"
+      },
+      {
+        "title": "Learn how to expand your brand name",
+        "image": "https://m.media-amazon.com/images/G/01/sp/CMS/Operations_jobs.jpg",
+        "date": "20th Dec, 2023",
+        "time": "10:00 AM - 11:00 AM",
+        "amount": "3,499",
+        "isEnrolled": "N"
+      }
+    ],
+    "desktopSliderDetails": [
+      {
+        "id": "1",
         "image": "https://www.qrencia.com/wp-content/uploads/2022/11/1.-Skill-Competitions-on-Qrencia-2.png",
         "heading": "Develop Extra-curricular Skills through Skill Competition",
-        "subHeading": "Get regular opportunities to showcase talent at comfort of your home and out of doors",
-        "link": "http://localhost:3000/"
+        "subHeading": "Get regular opportunities to showcase talent at comfort of your home and out of doors"
       },
       {
-        "id": 2,
+        "id": "2",
         "image": "http://www.qrencia.com/wp-content/uploads/2022/11/2.-Extracurricular-Classes-on-Qrencia-2.png",
         "heading": "Find Classes offered by top Experts as per your needs & schedule",
-        "subHeading": "Learn the skills you need to live your dreams in hobby, career and life.",
-        "link": "http://localhost:3000/"
+        "subHeading": "Learn the skills you need to live your dreams in hobby, career and life."
       },
       {
-        "id": 3,
+        "id": "3",
         "image": "http://www.qrencia.com/wp-content/uploads/2022/11/3.-Instant-Feedback-on-Qrencia-2.png",
         "heading": "Obtain instant nudge from global community of skill experts",
-        "subHeading": "Connect with passionate experts looking to spotlight the highs and lows in your work and help you improve.",
-        "link": "http://localhost:3000/"
+        "subHeading": "Connect with passionate experts looking to spotlight the highs and lows in your work and help you improve."
       }
-    ]
-  },
-  "tabletCarouselSection": {
-    "sectionId": 2,
-    "isActive": "Y",
-    "details": [
+    ],
+    "mobileSliderDetails": [
       {
-        "id": 1,
-        "image": "https://www.qrencia.com/wp-content/uploads/2022/11/1.-Skill-Competitions-on-Qrencia-2.png",
-        "heading": "Develop Extra-curricular Skills through Skill Competition",
-        "subHeading": "Get regular opportunities to showcase talent at comfort of your home and out of doors",
-        "link": "http://localhost:3000/"
-      },
-      {
-        "id": 2,
-        "image": "http://www.qrencia.com/wp-content/uploads/2022/11/2.-Extracurricular-Classes-on-Qrencia-2.png",
-        "heading": "Find Classes offered by top Experts as per your needs & schedule",
-        "subHeading": "Learn the skills you need to live your dreams in hobby, career and life.",
-        "link": "http://localhost:3000/"
-      },
-      {
-        "id": 3,
-        "image": "http://www.qrencia.com/wp-content/uploads/2022/11/3.-Instant-Feedback-on-Qrencia-2.png",
-        "heading": "Obtain instant nudge from global community of skill experts",
-        "subHeading": "Connect with passionate experts looking to spotlight the highs and lows in your work and help you improve.",
-        "link": "http://localhost:3000/"
-      }
-    ]
-  },
-  "mobileCarouselSection": {
-    "sectionId": 3,
-    "isActive": "Y",
-    "details": [
-      {
-        "id": 1,
+        "id": "1",
         "image": "http://www.qrencia.com/wp-content/uploads/2023/02/skill-competitions-on-qrencia-1.png",
         "heading": "Develop Extra-curricular Skills through Skill Competition",
-        "subHeading": "Get regular opportunities to showcase talent at comfort of your home and out of doors",
-        "link": "http://localhost:3000/"
+        "subHeading": "Get regular opportunities to showcase talent at comfort of your home and out of doors"
       },
       {
-        "id": 2,
+        "id": "2",
         "image": "http://www.qrencia.com/wp-content/uploads/2023/02/extracurricular-classes-on-qrencia-.png",
         "heading": "Find Classes offered by top Experts as per your needs & schedule",
-        "subHeading": "Learn the skills you need to live your dreams in hobby, career and life.",
-        "link": "http://localhost:3000/"
+        "subHeading": "Learn the skills you need to live your dreams in hobby, career and life."
       },
       {
-        "id": 3,
+        "id": "3",
         "image": "http://www.qrencia.com/wp-content/uploads/2023/02/instant-feedback-on-qrencia-1.png",
         "heading": "Obtain instant nudge from global community of skill experts",
-        "subHeading": "Connect with passionate experts looking to spotlight the highs and lows in your work and help you improve.",
-        "link": "http://localhost:3000/"
+        "subHeading": "Connect with passionate experts looking to spotlight the highs and lows in your work and help you improve."
       }
-    ]
-  },
-  "qrenciaAtGlanceSection": {
-    "sectionId": 4,
-    "isActive": "Y",
-    "heading": "Platform for Extra-curricular Skills Development",
-    "subHeading": "QRENCIA AT GLANCE",
-    "description": "Personalized learning ecosystem for effective Skill Development",
-    "image": "https://www.qrencia.com/wp-content/uploads/2022/11/Qrencia-at-Glance-Video-Thumbnail-496-X-355.png",
-    "video": "PVA7e9yqjjA",
-    "cards": [
+    ],
+    "skillCategories": [
       {
         "id": 1,
-        "image": "https://www.qrencia.com/wp-content/uploads/2022/11/Group-1801.png",
-        "heading": "Competitions",
-        "description": "Access regular opportunities to showcase talent",
-        "link": "http://localhost:3000/"
+        "skillId": "1",
+        "skillName": "Fine Arts"
       },
       {
         "id": 2,
-        "image": "https://www.qrencia.com/wp-content/uploads/2022/11/Group-1800@3x.png",
-        "heading": "Courses",
-        "description": "Learn from the top mentors from across the world",
-        "link": "http://localhost:3000/"
+        "skillId": "2",
+        "skillName": "Communication"
       },
       {
         "id": 3,
-        "image": "https://www.qrencia.com/wp-content/uploads/2022/11/Group-1799@3x.png",
-        "heading": "Community",
-        "description": "Get instant feedback from global community of experts",
-        "link": "http://localhost:3000/"
-      }
-    ]
-  },
-  "discoverPassionSection": {
-    "sectionId": 5,
-    "isActive": "Y",
-    "heading": "Discover your passion with Qrencia",
-    "subHeading": "Annual Subscription: INR 6000",
-    "description": "What you get?",
-    "image": "https://www.qrencia.com/wp-content/uploads/2022/11/Subscription-Plan-454-X-472-768x798.png",
-    "link": "http://localhost:3000/",
-    "buttonText": "Subscribe now",
-    "pointers": [
-      {
-        "id": 1,
-        "image": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/10B53AF8-7C5E-4E27-B80B-672A57CFC17F.svg",
-        "heading": "Unlimited Skill Competitions"
+        "skillId": "3",
+        "skillName": "Sports & Cultural"
       },
       {
         "id": 2,
-        "image": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/47D90824-7718-4D2C-BD7B-06FA02BBBC20.svg",
-        "heading": "Recommendations"
-      },
-      {
-        "id": 3,
-        "image": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/0EABF503-74B9-474A-B022-4B64153710EC.svg",
-        "heading": "Performance Analysis"
+        "skillId": "2",
+        "skillName": "Communication"
       },
       {
         "id": 4,
-        "image": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/4939782D-2A22-4EC8-BE5A-D9FC3673B595.svg",
-        "heading": "Skill Passport"
+        "skillId": "4",
+        "skillName": "Vocational"
       },
       {
         "id": 5,
-        "image": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/4DA46649-36AD-4D70-8928-2B0C5B8AFF48.svg",
-        "heading": "Nudge from Experts"
+        "skillId": "5",
+        "skillName": "Technology"
       },
       {
         "id": 6,
-        "image": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/91C956AA-8431-4D15-9E83-D62065BF8E1F.svg",
-        "heading": "Performance Rewards"
-      },
-      {
-        "id": 7,
-        "image": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/33AA0208-CF89-4650-9641-80C209DB9CD2.svg",
-        "heading": "Global Community"
-      },
-      {
-        "id": 8,
-        "image": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/69F18B04-7160-4B66-9449-3CD644D049D7.svg",
-        "heading": "Student Referral Bonus"
+        "skillId": "6",
+        "skillName": "Life Skills"
       }
-    ]
-  },
-  "whatMoreYouGetSection": {
-    "sectionId": 6,
-    "isActive": "Y",
-    "heading": "What more you get on Qrencia?",
-    "description": "Learn from the global experts at affordable cost",
-    "cards": [
+    ],
+    "todaysActivities": [
       {
         "id": 1,
-        "image": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/27FFCE8D-8DD7-43C0-84DD-65D998A99144.svg",
-        "heading": "Courses",
-        "buttonText": "Know More",
-        "link": "http://localhost:3000/"
+        "image": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/F33F5C16-85EB-40A9-8F21-CA077F5BB5DE.svg",
+        "title": "Competition",
+        "activityDescription": "Classical Solo Singing Competition",
+        "time": "12:00 PM"
       },
       {
         "id": 2,
-        "image": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/7D128CFB-CF0B-4A94-8C55-6FA34062328E.svg",
-        "heading": "Mentorship",
-        "buttonText": "Know More",
-        "link": "http://localhost:3000/"
-      }
-    ]
-  },
-  "impactCreatedByQrenciaSection": {
-    "sectionId": 7,
-    "isActive": "Y",
-    "heading": "Impact created by Qrencia",
-    "description": "Qrencia brought a revolution in skill development ecosystem through skill competitions",
-    "cards": [
-      {
-        "id": 1,
-        "heading": "250K",
-        "subHeading": "Students Engaged"
-      },
-      {
-        "id": 2,
-        "heading": "100+",
-        "subHeading": "Competitions Conducted"
+        "image": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/9990D682-4B05-4E18-989A-385618DD6550.svg",
+        "title": "Skill Labs",
+        "activityDescription": "Groove With Bollywood Dance",
+        "time": "3:00 PM"
       },
       {
         "id": 3,
-        "heading": "150",
-        "subHeading": "Experts Engaged"
+        "image": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/5235D25C-4BA0-4A62-9235-1D0C3DFD5308.svg",
+        "title": "Mentorship",
+        "activityDescription": "Emotional Intelligence at School",
+        "time": "5:00 PM"
       },
       {
         "id": 4,
-        "heading": "1M",
-        "subHeading": "Performance Analysis Report Generated"
-      }
-    ]
-  },
-  "qrenciaInNewsSection": {
-    "sectionId": 9,
-    "isActive": "Y",
-    "heading": "Qrencia in News",
-    "cards": [
-      {
-        "id": 1,
-        "image": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/B729FAC1-BC01-45D6-A89F-642C585B0468.png",
-        "link": "http://localhost:3000/",
-        "heading": "Silver Medal - WorldSkills Kazan Russia 2019",
-        "description": "Qrencia helped team India create history at WorldSkills International Competition. Pranav Nutalapati,a 16-year-old young boy from Bangalore was mentored by Ms. Ruchi Pareek."
+        "image": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/1EDC76F2-62F4-41E4-AB39-388287312141.svg",
+        "title": "Workshops",
+        "activityDescription": "Digital Art for Beginners",
+        "time": "7:00 PM"
       },
       {
-        "id": 2,
-        "image": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/B729FAC1-BC01-45D6-A89F-642C585B0468.png",
-        "link": "http://localhost:3000/",
-        "heading": "Silver Medal - WorldSkills Kazan Russia 2019",
-        "description": "Qrencia helped team India create history at WorldSkills International Competition. Pranav Nutalapati,a 16-year-old young boy from Bangalore was mentored by Ms. Ruchi Pareek."
-       },
+        "id": 5,
+        "image": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/831F3FA7-2F28-47E5-A8F5-FEA7DE520C36.svg",
+        "title": "Qtalks",
+        "activityDescription": "Importance of Yoga",
+        "time": "8:00 PM"
+      }
+    ],
+    "latestNudgeFeedbackDetails": [
       {
-        "id": 3,
-        "image": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/B729FAC1-BC01-45D6-A89F-642C585B0468.png",
-        "link": "http://localhost:3000/",
-        "heading": "Silver Medal - WorldSkills Kazan Russia 2019",
-        "description": "Qrencia helped team India create history at WorldSkills International Competition. Pranav Nutalapati,a 16-year-old young boy from Bangalore was mentored by Ms. Ruchi Pareek."
-      },
-      {
-        "id": 4,
-        "image": "https://cdn.zeplin.io/594bae8a8d6a0bce61ed7daf/assets/B729FAC1-BC01-45D6-A89F-642C585B0468.png",
-        "link": "http://localhost:3000/",
-        "heading": "Silver Medal - WorldSkills Kazan Russia 2019",
-        "description": "Qrencia helped team India create history at WorldSkills International Competition. Pranav Nutalapati,a 16-year-old young boy from Bangalore was mentored by Ms. Ruchi Pareek."
+        "skillCategory": "Drawing",
+        "nudgeTitle": "Feedback On Drawing Composition",
+        "feedbackDetails": [
+          {
+            "expertImage": "https://cdn-icons-png.flaticon.com/512/168/168724.png",
+            "expertName": "Atharva Kanse",
+            "time": "12 mins",
+            "feedbackComment": "The color scheme is inconsistent throughout the drawing"
+          }
+        ]
       }
     ]
-  },
-  "footerSection": {
-    "sectionId": 10,
-    "isActive": "Y"
   }
-}
+]
+]
